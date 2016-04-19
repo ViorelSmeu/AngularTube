@@ -1,0 +1,3 @@
+var mySettings = {
+    appName: "AngularTube"
+};
